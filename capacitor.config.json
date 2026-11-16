@@ -1,0 +1,7 @@
+{
+  "appId": "br.com.revalle.contagem",
+  "appName": "Contagem de Estoque",
+  "webDir": "www",
+  "backgroundColor": "#0b3d91",
+  "android": { "allowMixedContent": false }
+}
